@@ -1,6 +1,6 @@
 import os
-OPENAI_API_KEY = "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"
-HUGGINGFACEHUB_API_TOKEN = "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"
+OPENAI_API_KEY = "add your OpenAI key"
+HUGGINGFACEHUB_API_TOKEN = "add your huggingface key"
 #export TAVILY_API_KEY= 
 
 def set_environment():
